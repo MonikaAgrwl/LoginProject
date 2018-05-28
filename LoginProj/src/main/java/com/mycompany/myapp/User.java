@@ -9,6 +9,7 @@ public class User {
 	private long numberOfLogins;
 	
 	public boolean isLoggedIn() {
+		//testing git
 		return loggedIn;
 	}
 
